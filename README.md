@@ -1,2 +1,2 @@
 # web-edit-test
-This repository is for practiciing GitHub's web editing capabilites.
+This repository is for practicing GitHub's web editing capabilities.
