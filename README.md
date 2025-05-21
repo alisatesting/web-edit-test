@@ -1,2 +1,2 @@
 # web-edit-test
-testing web based edits and issue closing
+This repository is for practiciing GitHub's web editing capabilites.
